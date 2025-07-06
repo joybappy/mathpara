@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(223, 239, 255);
+}
+.heading{
+    margin-bottom: 1px;
+}
+
+.subheading{
+    margin-top: 1px;
+    padding-left: 10px;
+}
